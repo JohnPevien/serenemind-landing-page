@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# SereneMind - Landing Page (Portfolio Project)
+
+This repository showcases the development of a landing page for **SereneMind, a conceptual mental wellness mobile application.** 
+The primary objective was to build a compelling landing page designed to introduce the SereneMind concept, communicate its potential benefits, and illustrate features that would drive engagement (e.g., app downloads and subscriptions).
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
